@@ -1,0 +1,5 @@
+1 Joao_Silva 45 Estavel
+2 Maria_Santos 37 Cuidados_Intensivos
+3 Ana_Pereira 29 Recuperacao
+4 Carlos_Ferreira 50 Alta
+5 Beatriz_Costa 41 Observacao
